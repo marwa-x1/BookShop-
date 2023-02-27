@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(49, 49, 49);
+    margin-top: 200px;
+}
+h1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 3px;
+    margin-bottom: 20px;
+    background-color: rgb(100, 100, 100);
+}
+ul{
+    list-style-type: square;
+}
+ul li{
+    color: white;
+    /* display: flex;
+    justify-content: center; */
+    align-items: center;
+    padding: 10px;
+    /* margin-top: 10px; */
+}

@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+section{
+    margin-top: 200px;
+}
+.capital{
+    text-transform: uppercase;
+}
+.title{
+    background-color: rgb(100, 100, 100);
+    color: white;
+    display: flex;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    margin-bottom: 80px;
+    font-size: xx-large;
+}
+.label1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.label2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.label{
+    font-size: larger;
+}
+.input{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 5px;
+    border: solid black;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.signupbtn a{
+    text-decoration: none;
+    color: black;
+}
+.signupbtn{
+    margin-left: 670px;
+    border: 2px grey outset;
+    border-radius: 20px;
+    font-size: larger;
+    padding: 4px;
+    background-color: white;
+    display: flex;
+}
